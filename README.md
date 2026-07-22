@@ -26,12 +26,12 @@ This section demonstrates the core competencies learned in **Course 3 (Prepare D
 
 ---
 
-## 🎓 Verified Course Certificate
+### 🎓 Verified Course Certificate
 
 Below is the official completion certificate issued by Google via Coursera:
 
-### 📑 Course 3: Prepare Data for Exploration (Grade: 97.31%)
-https://www.coursera.org/account/accomplishments/verify/7V6D1STX2XJ1
-![Google Data Analytics Course 3 Certificate](<img width="3293" height="2546" alt="certificate3" src="https://github.com/user-attachments/assets/f3881410-3b58-4c6f-8de6-73e6c40d675a" />
-)
+* **Course 3:** Prepare Data for Exploration (Grade: 97.31%)
+* [Verify Certificate Link](https://www.coursera.org/account/accomplishments/verify/7V6D1STX2XJ1)
+
+![Google Data Analytics Course 3 Certificate](certificate%203.png)
 
