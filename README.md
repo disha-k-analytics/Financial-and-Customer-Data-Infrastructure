@@ -64,13 +64,14 @@ To apply these skills in an enterprise context, I worked on a case study focused
 
 ---
 
-### 📜 Course 4 Process Data from Dirty to Clean (Grade: 98.33%)
+### 🎓 Verified Course Certificate
+
+Below is the official completion certificate issued by Google via Coursera:
+
+* **Course 4:** Process Data from Dirty to Clean (Grade: 98.33%)
 * **Verify Certificate:** (https://www.coursera.org/account/accomplishments/verify/WBTDCR55OECI)
-![Google Data Analytics Course 3 Certificate](<img width="3293" height="2546" alt="certificate 4" src="https://github.com/user-attachments/assets/f85f318c-cea7-4af9-9108-e43b181bc240" />
-)
 
 <p align="center">
-  <img src="INSERT_YOUR_IMAGE_FILENAME_OR_LINK_HERE" alt="Course 4 Certificate" width="70%">
+  <img src="<img width="3293" height="2546" alt="certificate 4" src="https://github.com/user-attachments/assets/1040a1d7-fca2-402e-84fc-cde21995e9a5" />
+" alt="Course 4 Certificate" width="70%">
 </p>
-
----
