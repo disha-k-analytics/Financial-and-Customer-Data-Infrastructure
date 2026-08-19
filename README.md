@@ -35,3 +35,42 @@ Below is the official completion certificate issued by Google via Coursera:
 
 ![Google Data Analytics Course 3 Certificate](certificate%203.png)
 
+---
+
+## 🎓 Course 4: Process Data from Dirty to Clean (Completed)
+Data integrity is the baseline for reliable financial forecasting and IT systems audit. In this course, I mastered advanced data cleansing and validation workflows, enabling me to transform raw, unstructured datasets into high-quality, audit-ready data for executive decision-making.
+
+### 📊 Business Case Study Framework: Data Cleansing & Integrity
+To apply these skills in an enterprise context, I worked on a case study focused on auditing and cleaning an operational business dataset.
+
+#### 1. Problem Identification (The Cost of Dirty Data)
+* Evaluated how missing customer metrics and duplicate transaction IDs distort financial reporting and ROI tracking.
+* Analyzed data anomalies including schema drift, structural format errors, and null fields.
+
+#### 2. Spreadsheet Cleansing & Formatting (Localized Audit)
+* Executed end-to-end data preparation workflows within Google Sheets/MS Excel to fix text anomalies.
+* Implemented complex operations for string normalization and data alignment: `TRIM()`, `CLEAN()`, `UPPER()`, `SPLIT()`, and `CONCATENATE()`.
+
+#### 3. Enterprise-Grade Cleansing Using SQL (BigQuery)
+* Scaled up analytical capabilities by migrating localized spreadsheets to cloud databases using Google BigQuery.
+* Wrote production-level SQL queries to execute transformation and typecasting logic:
+  * Handled structural type variations using `CAST` functions (essential for converting financial strings to numeric values).
+  * Managed null records using defensive data handling logic via `COALESCE()`.
+  * Optimized operational workflows and filtered duplicate footprints using `DISTINCT` and structured `WHERE` clauses.
+
+#### 4. Verification, Changelog & Stakeholder Documentation
+* Formulated data verification matrices to cross-examine dataset integrity before final modeling.
+* Established strict change management standards by maintaining comprehensive data cleaning logs (Changelogs) to ensure full computational reproducibility for stakeholder audits.
+
+---
+
+### 📜 Course 4 Process Data from Dirty to Clean (Grade: 98.33%)
+* **Verify Certificate:** (https://www.coursera.org/account/accomplishments/verify/WBTDCR55OECI)
+![Google Data Analytics Course 3 Certificate](<img width="3293" height="2546" alt="certificate 4" src="https://github.com/user-attachments/assets/f85f318c-cea7-4af9-9108-e43b181bc240" />
+)
+
+<p align="center">
+  <img src="INSERT_YOUR_IMAGE_FILENAME_OR_LINK_HERE" alt="Course 4 Certificate" width="70%">
+</p>
+
+---
