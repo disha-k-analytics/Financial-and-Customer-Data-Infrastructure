@@ -71,4 +71,4 @@ Below is the official completion certificate issued by Google via Coursera:
 * **Course 4:** Process Data from Dirty to Clean (Grade: 98.33%)
 * **Verify Certificate:** (https://www.coursera.org/account/accomplishments/verify/WBTDCR55OECI)
 
-![Google Data Analytics Course 4 Certificate](certificate 4.png)
+![certificate 4.png](certificate 4.png)
