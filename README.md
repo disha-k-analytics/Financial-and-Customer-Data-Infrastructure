@@ -107,4 +107,4 @@ Below is the official completion certificate issued by Google via Coursera:
 * **Course 5:** Analyze Data to Answer Questions (Grade: 94.40%)
 * **Verify Certificate:** [View Official Coursera Accomplishment](https://www.coursera.org/account/accomplishments/verify/XXYKL14H6LKQ)
 
-![certificate 5.png](certificate%205.png)
+![certificate 5.png](certificate 5.png)
