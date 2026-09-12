@@ -72,3 +72,40 @@ Below is the official completion certificate issued by Google via Coursera:
 * **Verify Certificate:** (https://www.coursera.org/account/accomplishments/verify/WBTDCR55OECI)
 
 ![certificate 4.png](certificate%204.png)
+
+
+## 🎓 Course 5: Analyze Data to Answer Questions (Completed)
+
+Data calculations and trend discovery form the bedrock of corporate strategy, market forecasting, and business intelligence. In this course, I mastered the fundamental analytical frameworks required to organize, calculate, and analyze complex datasets, transforming static metrics into actionable insights that directly answer critical business questions.
+
+### 📊 Business Case Study Framework: Data Analysis & Calculation Modeling
+
+To apply these competencies within an MBA and managerial context, I developed an analysis framework focused on uncovering operational trends, maximizing cost efficiency, and backing strategic decisions with quantitative proof.
+
+#### 1. Organizing and Structuring Data (Data Architecture)
+* Isolated critical operational metrics by implementing advanced multi-level sorting and multi-criteria filtering workflows.
+* Grouped and aggregated transactional data points to create high-level executive summaries, simplifying data complexity for senior leadership.
+
+#### 2. Advanced Spreadsheet Calculations & Functions (Quantitative Modeling)
+* Engineered dynamic data cross-referencing and lookup models using `VLOOKUP`, `XLOOKUP`, and `INDEX/MATCH` combinations.
+* Conducted granular segment analysis and conditional counting/summation using `COUNTIF`, `SUMIF`, and mathematical array logic.
+* Built interactive Pivot Tables and calculated fields to cross-tabulate business variables, isolate seasonal patterns, and identify core revenue drivers.
+
+#### 3. SQL Data Aggregation & Analytical Queries (BigQuery Subqueries)
+* Scaled up analytical computing by writing advanced aggregate queries using SQL commands: `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`.
+* Segmented financial and customer performance data dynamically using `GROUP BY` and filtered aggregated results using `HAVING` clauses.
+* Formulated nested subqueries and basic conditional logic (`CASE WHEN`) to run complex business scenarios directly within cloud-based data warehouses.
+
+#### 4. Data-Driven Decision Making & Analytical Thinking
+* Practiced the phases of data analysis: formatting data, combining datasets, performing calculations, and identifying narrative trends.
+* Mitigated confirmation bias and algorithmic errors by maintaining strict data objectivity, aligning all final statistical conclusions with targeted corporate KPIs.
+
+### 🎓 Verified Course Certificate
+
+Below is the official completion certificate issued by Google via Coursera:
+
+* **Course 5:** Analyze Data to Answer Questions (Grade: 94.40%)
+* **Verify Certificate:** [View Official Coursera Accomplishment](https://www.coursera.org/account/accomplishments/verify/XXYKL14H6LKQ)
+
+![certificate 5.png](<img width="3293" height="2546" alt="certificat 5" src="https://github.com/user-attachments/assets/e0a4dff7-319b-4300-8f39-67b5a85abc8b" />
+)
